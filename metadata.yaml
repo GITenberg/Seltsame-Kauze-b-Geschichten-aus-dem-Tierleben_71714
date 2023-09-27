@@ -1,0 +1,25 @@
+_repo: Seltsame-Kauze-b-Geschichten-aus-dem-Tierleben_71714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marx, Arno
+    gutenberg_agent_id: '56346'
+    url: http://www.gutenberg.org/2009/agents/56346
+description: ''
+gutenberg_issued: '2023-09-24'
+identifiers:
+  gutenberg: '71714'
+language: de
+pgterms:marc905: 20201115090910marx
+pgterms:marc906: '1914'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bKosmos, Gesellschaft der Naturfreunde (Franck''sche
+  Verlagshandlung), $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Seltsame Käuze : $b Geschichten aus dem Tierleben'
+url: http://www.gutenberg.org/ebooks/71714
