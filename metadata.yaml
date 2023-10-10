@@ -1,11 +1,16 @@
 _repo: Seltsame-Kauze-b-Geschichten-aus-dem-Tierleben_71714
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71714-h/images/cover.jpg
 creator:
   author:
     agent_name: Marx, Arno
     gutenberg_agent_id: '56346'
     url: http://www.gutenberg.org/2009/agents/56346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71714#Seltsame-Kauze-b-Geschichten-aus-dem-Tierleben
 gutenberg_issued: '2023-09-24'
 identifiers:
   gutenberg: '71714'
